@@ -20,3 +20,30 @@ Carlos Cobo <br>
 Diego Forero <br>
 Misael A. Gonzalez <br>
 Wilson Gutierrez
+
+## Mapa de navegación
+
+![This is an image](/ImagenesReadme/MapaNavegacion.jpg)
+
+## Diseño de las vistas
+
+- Vista de inicio de sesión<br>
+![This is an image](/ImagenesReadme/1_iniciar_sesion.jpg)
+- Vista de inicio de administrador<br>
+![This is an image](/ImagenesReadme/2_inicio_administrador.jpg)
+- Vista de administrar usuarios<br>
+![This is an image](/ImagenesReadme/3_Administrar_Usuarios.jpg)
+- Vista de administrar asignaturas<br>
+![This is an image](/ImagenesReadme/4_Administrar_Asignaturas.jpg)
+- Vista de inicio de profesor<br>
+![This is an image](/ImagenesReadme/5_Inicio_Profesor.jpg)
+- Vista de registrar actividades<br>
+![This is an image](/ImagenesReadme/6_registra_actividades.jpg)
+- Vista de calificación de actividades<br>
+![This is an image](/ImagenesReadme/7_calificacion_actividades.jpg)
+- Vista de inicio de estudiante<br>
+![This is an image](/ImagenesReadme/8_Inicio_Estudiante.jpg)
+- Vista de perfil de estudiante<br>
+![This is an image](/ImagenesReadme/9_Perfil_Estudiante.jpg)
+- Vista de notas de estudiante<br>
+![This is an image](/ImagenesReadme/10_Asignaturas_Estudiante.jpg)
