@@ -1,9 +1,7 @@
-# Gestor_de_Notas
+# Plataforma de Gestión de Notas
 Este repositorio corresponde a un proyecto que hace parte del curso del ciclo 3 del curso de programación de Misión TIC con la Universidad del Norte
 
-Descripción del Proyecto:
-
-Plataforma de Gestión de Notas
+### Descripción del Proyecto:
 
 Universidad del Atlántico requiere un sistema para la gestión de las notas de los estudiantes matriculados en cada una de las asignaturas ofrecidas. Se espera que dicho sistema se desarrolle para gestionar un único semestre.
 Los tipos de usuarios que debe manejar el sistema son superadministrador, docente, y estudiante.
@@ -13,12 +11,12 @@ La nota final de una asignatura corresponde al promedio de las actividades desar
 Un superadministrador ejerce el control total de la plataforma (docentes, estudiantes y asignaturas).
 Los datos suministrados por los usuarios deben cumplir la política de privacidad de datos vigente.
 
-La plataforma debe ser desarrollada con el framework Flask.
+***La plataforma debe ser desarrollada con el framework Flask.***
 
 
-Integrantes:
+### Integrantes:
 
-Carlos Cobo
-Diego Forero
-Misael A. Gonzalez
+Carlos Cobo <br>
+Diego Forero <br>
+Misael A. Gonzalez <br>
 Wilson Gutierrez
