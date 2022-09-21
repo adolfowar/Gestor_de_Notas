@@ -1,0 +1,36 @@
+{% extends 'layouts/index.html'%}
+
+{% block content %}
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="form-group">
+                    <div class="col-md-6">
+                        <label for="hue-demo">Asignatura</label>
+                         <select class="form-control demo">
+                            <option value="">-- Seleccione una asignatura --</option>
+                            <option>Asignatura2</option>
+                            <option>Asignatura3</option>
+                            <option>Asignatura4</option>                     
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-6">
+                        <label for="hue-demo">Nombre</label>
+                        <input type="text" id="hue-demo" class="form-control demo" data-control="hue">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-6">
+                        <label for="hue-demo">Descripción</label>
+                        <textarea class="form-control"></textarea>
+                    </div>
+                </div>
+
+                <button type="button" class="btn btn-dark text-white">Registrar</button>
+            </div>
+        </div>
+
+    </div>
+{% endblock content%}
