@@ -21,6 +21,9 @@ Diego Forero <br>
 Misael A. Gonzalez <br>
 Wilson Gutierrez
 
+### Ejecución del proyecto:
+Incialmente se debe tener instalado Flask, posteriormente ***ejecutar el comando py main.py dentro del proyecto*** para correr el archivo main y luego esto les indicará que deben poderlo visuarlizar en el navegador escribiendo localhost:5000.
+
 ## Mapa de navegación
 
 ![This is an image](/ImagenesReadme/MapaNavegacion.jpg)
